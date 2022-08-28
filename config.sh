@@ -1,3 +1,4 @@
+#!/bin/bash
 # To get this information run `xinput list`
 keyboard_name="Dell KB216 Wired Keyboard"
 keyboard_id="15"

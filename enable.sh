@@ -1,3 +1,4 @@
+#!/bin/bash
 # Get config variables
 source config.sh
 # Enable the keyboard again
